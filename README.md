@@ -1,4 +1,5 @@
 # learnyounode
 
+README FILE
 
-README README README README file
+This repository is a learnyounode walkthrough
